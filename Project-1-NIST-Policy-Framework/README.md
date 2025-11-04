@@ -10,6 +10,16 @@ Contents:
 
 Purpose:
 - Provide a centralized location for NIST Cybersecurity Framework (or relevant NIST guidance) policy development and artifacts for this project.
+- Project Context: Hypothetical Organization
+To make this project realistic, all policies were written for a hypothetical organization:
+
+Company Name: "Gulf Digital Trust Bank"
+
+Industry: A mid-sized digital bank (250 employees) in Dubai.
+
+Sensitive Data: Customer PII (Emirates IDs), financial data (account numbers, balances), and transaction histories.
+
+GRC Goal: The policies in this folder were written to meet the high-security needs of a bank, focusing on protecting customer financial data and complying with UAE Central Bank (CBUAE) regulations.
 
 How to use:
 1. Add policy documents to the `policies/` folder.
