@@ -2,7 +2,7 @@ Company: Gulf Digital Trust Bank Effective Date: [Today's Date] Policy Owner: Ch
 
 **1. Policy Objective**
 
-**(The "why") **
+**(The "why")**
 
 The objective of this policy is to establish a formal, bank-wide capability to detect, respond to, and recover from cybersecurity incidents. A rapid and effective response is critical to protect customer assets, limit financial losses, mitigate reputational damage, and ensure swift compliance with CBUAE regulatory reporting requirements.
 
