@@ -1,21 +1,18 @@
 Company: Gulf Digital Trust Bank Effective Date: [Today's Date] Policy Owner: Chief Data Officer (CDO) / CISO
 
-**1. Policy Objective**
+1. Policy Objective
 
 (The "why") 
 
 The objective of this policy is to categorize all bank data based on its sensitivity, criticality, and legal requirements. This classification ensures that all information assets are protected with the appropriate level of security controls (e.g., encryption, access restrictions) and handled correctly throughout their lifecycle (creation, storage, transmission, destruction).
 
 2. Scope
-
 (The "who" and "what") 
 
 This policy applies to all data created, collected, stored, or processed by Gulf Digital Trust Bank, regardless of its format (digital or physical). It applies to all employees, contractors, and third-party vendors who handle bank data.
 
 3. Policy Statements
-
 (The "rules"—defining the levels)
-
 
 Gulf Digital Trust Bank data is classified into four levels:
 
@@ -72,7 +69,9 @@ Handling Rules:
 No restrictions on access or distribution.
 
 4. Roles and Responsibilities
+
 (The "who does what")
+
 
 Data Owners: (e.g., Head of Retail Banking, Head of HR) Responsible for classifying the data their department creates and owns.
 
@@ -81,7 +80,9 @@ Data Users: (All Employees) Responsible for understanding the classification of 
 IT Security Team: Responsible for implementing the technical controls (like encryption and access rules) that enforce this policy.
 
 5. Compliance Monitoring
+
 (The "how we check")
+
 
 The IT Security Team will conduct periodic scans and audits to ensure sensitive data is properly classified and protected.
 
