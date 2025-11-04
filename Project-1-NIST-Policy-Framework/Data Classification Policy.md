@@ -1,30 +1,31 @@
 Company: Gulf Digital Trust Bank Effective Date: [Today's Date] Policy Owner: Chief Data Officer (CDO) / CISO
 
-1. Policy Objective
+1. **Policy Objective**
 
 (The "why") 
 
 The objective of this policy is to categorize all bank data based on its sensitivity, criticality, and legal requirements. This classification ensures that all information assets are protected with the appropriate level of security controls (e.g., encryption, access restrictions) and handled correctly throughout their lifecycle (creation, storage, transmission, destruction).
 
-2. Scope
-(The "who" and "what") 
+2. **Scope**
+   
+**(The "who" and "what")**
+
 
 This policy applies to all data created, collected, stored, or processed by Gulf Digital Trust Bank, regardless of its format (digital or physical). It applies to all employees, contractors, and third-party vendors who handle bank data.
 
-3. Policy Statements
-(The "rules"—defining the levels)
+3. **Policy Statements**
+   
+**(The "rules"—defining the levels)**
 
 Gulf Digital Trust Bank data is classified into four levels:
 
-Level 4: Strictly Confidential
+**Level 4: Strictly Confidential**
 
-Definition: The bank's most sensitive data. Unauthorized disclosure would cause severe financial, legal, or reputational damage and violate regulatory laws (CBUAE).
+**Definition**: The bank's most sensitive data. Unauthorized disclosure would cause severe financial, legal, or reputational damage and violate regulatory laws (CBUAE).
 
-Examples: Customer PII + financial data (account numbers, balances), authentication credentials (passwords, PINs), internal investigation records, regulatory reports.
+**Examples**: Customer PII + financial data (account numbers, balances), authentication credentials (passwords, PINs), internal investigation records, regulatory reports.
 
-Handling Rules:
-
-Must be encrypted at rest and in transit.
+**Handling Rules**: Must be encrypted at rest and in transit.
 
 Access is restricted to a "need-to-know" basis, approved by a Data Owner.
 
@@ -32,56 +33,49 @@ Must not be sent via unencrypted email or stored on personal/unapproved devices.
 
 Physical documents must be in locked cabinets.
 
-Level 3: Confidential
+**Level 3:** Confidential
 
-Definition: Sensitive internal bank data. Unauthorized disclosure could negatively impact operations, strategy, or customer trust.
+**Definition**: Sensitive internal bank data. Unauthorized disclosure could negatively impact operations, strategy, or customer trust.
 
-Examples: Internal financial reports, business strategy documents, employee HR records (salaries, performance reviews), non-public loan applications.
+**Examples**: Internal financial reports, business strategy documents, employee HR records (salaries, performance reviews), non-public loan applications.
 
-Handling Rules:
-
-Access is restricted to internal employees and approved vendors.
+**Handling Rules:** Access is restricted to internal employees and approved vendors.
 
 Should be encrypted at rest and in transit.
 
 Must not be shared with the public.
 
-Level 2: Internal
+**Level 2:** Internal
 
-Definition: Data intended for use within the bank but not considered sensitive. Disclosure would not cause significant harm but is not desired.
+**Definition:** Data intended for use within the bank but not considered sensitive. Disclosure would not cause significant harm but is not desired.
 
-Examples: Internal employee memos, company directories (internal phone lists), IT procedures, general operating policies.
+**Examples:** Internal employee memos, company directories (internal phone lists), IT procedures, general operating policies.
 
-Handling Rules:
-
-Available to all internal employees.
+Handling Rules: Available to all internal employees.
 
 Must not be distributed externally without management approval.
 
-Level 1: Public
+**Level 1:** Public
 
-Definition: Data approved for public release.
+**Definition**: Data approved for public release.
 
-Examples: Marketing brochures, website content, press releases, public-facing product information (interest rates).
+**Examples**: Marketing brochures, website content, press releases, public-facing product information (interest rates).
 
-Handling Rules:
+**Handling Rules**: No restrictions on access or distribution.
 
-No restrictions on access or distribution.
+**4. Roles and Responsibilities**
 
-4. Roles and Responsibilities
+**(The "who does what")**
 
-(The "who does what")
+**Data Owners:** (e.g., Head of Retail Banking, Head of HR) Responsible for classifying the data their department creates and owns.
 
+**Data Users:** (All Employees) Responsible for understanding the classification of the data they handle and protecting it according to this policy.
 
-Data Owners: (e.g., Head of Retail Banking, Head of HR) Responsible for classifying the data their department creates and owns.
+**IT Security Team:** Responsible for implementing the technical controls (like encryption and access rules) that enforce this policy.
 
-Data Users: (All Employees) Responsible for understanding the classification of the data they handle and protecting it according to this policy.
+**5. Compliance Monitoring**
 
-IT Security Team: Responsible for implementing the technical controls (like encryption and access rules) that enforce this policy.
-
-5. Compliance Monitoring
-
-(The "how we check")
+**(The "how we check")**
 
 
 The IT Security Team will conduct periodic scans and audits to ensure sensitive data is properly classified and protected.
