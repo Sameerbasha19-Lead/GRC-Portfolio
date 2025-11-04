@@ -48,7 +48,7 @@ This policy applies to all employees, contractors, and temporary staff using any
 
 **IT Department:** Responsible for monitoring network traffic, managing software installations, and providing secure remote access solutions (VPN).
 
-**Managers: **Responsible for ensuring their team members have read and understand this policy.
+**Managers:** Responsible for ensuring their team members have read and understand this policy.
 
 **All Users:** Responsible for reading, understanding, and complying with this policy. Ignorance of the policy is not an excuse for non-compliance.
 
